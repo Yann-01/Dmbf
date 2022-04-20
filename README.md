@@ -1,7 +1,4 @@
 
-#Boleh Rekod Asal Ijin Dulu
-
-#No Whatsapp Admin!! 085817964592
 $pkg update && pkg upgrade
 
 $pkg install python
