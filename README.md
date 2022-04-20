@@ -1,4 +1,3 @@
-
 $pkg update && pkg upgrade
 
 $pkg install python
@@ -26,11 +25,11 @@ $pip install rich
 $pip install mechanize
 
 $pip install futures
- 
-$git clone https://github.com/Yann-01
+
+$git clone https://github.com/HIKMAT-xyz/sadv1
 
 $cd sadv1
 
 $git pull
 
-$python Dec.py
+$python sadv2.py
